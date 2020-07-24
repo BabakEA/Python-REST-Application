@@ -13,4 +13,4 @@ The trained model will be saved as a pkl file in the model folder. Don't worry i
 As always, 
 Happy coding 
 
-![REST_application](data/Demo.mp4)
+![REST_application](data/Demo.gif)
